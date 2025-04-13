@@ -13,6 +13,5 @@
   <img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vatsalvyas1&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
 </a>
 ---
-[![](https://visitcount.itsvg.in/api?id=vatsalvyas1&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vatsalvyas1.vatsalvyas1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
