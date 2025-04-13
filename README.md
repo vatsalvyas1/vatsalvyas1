@@ -13,4 +13,4 @@
   <img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vatsalvyas1&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
 </a>
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vatsalvyas1.vatsalvyas1)](https://github.com/vatsalvyas1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vatsalvyas1.vatsalvyas1)
