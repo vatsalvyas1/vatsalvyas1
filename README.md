@@ -13,4 +13,4 @@
   <img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vatsalvyas1&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
 </a>
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvatsalvyas1%2Fvatsalvyas1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vatsalvyas1.vatsalvyas1)](https://github.com/vatsalvyas1)
