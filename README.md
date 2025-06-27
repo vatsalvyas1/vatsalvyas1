@@ -35,11 +35,15 @@
 </div>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+<img  src="https://raw.githubusercontent.com/vatsalvyas1/vatsalvyas1/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
+<br>
 
-# 📊 GitHub Stats:
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Vatsal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vatsalvyas1&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
-</a>
+<br/><br/>
+<hr/>
 
 <!-- [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vatsalvyas1.vatsalvyas1)](https://github.com/vatsalvyas1) -->
