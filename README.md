@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Vatsal;" />
 </h1>
+<hr/>
 
 <h3 align="center">A Software Developer from Delhi</h3>
 
@@ -12,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
 
 </div>
-<br/>
+<hr/>
 
 <p align="center">
   💬 Ask me about <strong>Node.js, React, Express, Sockets, Firebase, MongoDB</strong><br>
@@ -50,7 +51,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;)">
 </h3>
 
-<br/>
 <hr/>
 
 <!-- [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vatsalvyas1.vatsalvyas1)](https://github.com/vatsalvyas1) -->
