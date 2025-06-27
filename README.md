@@ -14,9 +14,11 @@
 </div>
 <br/>
 
-<div align="center">
-💬 Ask me about **Node.js, React, Express, Sockets, Firebase, MongoDB... or anything [here](https://github.com/vatsalvyas1/vatsalvyas1/issues)**
-</div>
+<p align="center">
+  💬 Ask me about <strong>Node.js, React, Express, Sockets, Firebase, MongoDB</strong><br>
+  or anything <a href="https://github.com/vatsalvyas1/vatsalvyas1/issues">here</a>!
+</p>
+
 
 <hr/>
 
