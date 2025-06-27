@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Vatsal;" />
 </h1>
-<hr/>
 
 <h3 align="center">A Software Developer from Delhi</h3>
 
@@ -44,7 +43,7 @@
 <br>
 
 
-<br/><br/>
+<br/>
 <hr/>
 
 <h3 align="center">
